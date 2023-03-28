@@ -12,9 +12,11 @@ I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.87 %
-TypeScript   5 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.36 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+From: 20 March 2023 - To: 27 March 2023
+
+Python                       ██████████████▓░░░░░░░░░░   58.87 %
+TypeScript                   ████████▓░░░░░░░░░░░░░░░░   34.36 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
