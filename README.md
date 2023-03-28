@@ -5,6 +5,10 @@
 - 🔭 I’m currently studying Computer Graphics / Vision, Web 
 - 🌱 I'm currently learning Typescript, Python, C#, Rust, Jupyter
 
+I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
+
+---
+### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
@@ -14,6 +18,7 @@ Other        21 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+---
 
 <!-- <div align='center'> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunkim98&theme=dark&show_icons=true"/>
