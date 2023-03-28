@@ -1,6 +1,6 @@
 ### Hun Kim (@hunkim98)
 
-- 👋 Hi, I am Hun Kim. I am interested in creating something that I want to use. 
+- 👋 Hi, I am Hun Kim. I am a web developer. 
 - 🤔 I am interested in creating productive web services implementing AI/ML
 - 🔭 I’m currently studying Computer Graphics / Vision, Web 
 - 🌱 I'm currently learning Typescript, Python, C#, Rust, Jupyter
