@@ -8,7 +8,7 @@
 I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 
 ---
-### 📊 Weekly development breakdown
+### 📊 Recent development breakdown (2 weeks)
 <!--START_SECTION:waka-->
 
 ```text
