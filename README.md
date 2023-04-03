@@ -2,8 +2,9 @@
 
 - 👋 Hi, I am Hun Kim. I am a web developer. 
 - 🤔 I am interested in creating productive web services implementing AI/ML
-- 🔭 I’m currently studying Computer Graphics / Vision, Web 
-- 🌱 I'm currently learning Typescript, Python, C#, Rust, Jupyter
+- 🔭 I am currently studying Computer Graphics / Vision, Web 
+- 🌱 I am currently learning Typescript, Python, C#, Rust, Jupyter
+- 🎨 I am the creator of [dotting](hunkim98.github.io/dotting), a React component library for pixel art
 
 I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 
