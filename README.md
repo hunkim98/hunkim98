@@ -13,13 +13,11 @@ I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
-TypeScript                   █████████████████░░░░░░░░   67.40 %
-Python                       ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-C                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TypeScript                   ███████████████▓░░░░░░░░░   62.63 %
+Python                       ████████░░░░░░░░░░░░░░░░░   31.43 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
