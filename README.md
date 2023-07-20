@@ -13,13 +13,13 @@ I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2023 - To: 17 July 2023
+From: 12 July 2023 - To: 19 July 2023
 
-TypeScript                   █████████████████▓░░░░░░░   70.28 %
-Markdown                     ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+TypeScript                   ██████████████████▒░░░░░░   72.82 %
+Markdown                     █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
 HTML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 JavaScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
