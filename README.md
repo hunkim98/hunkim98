@@ -13,13 +13,9 @@ I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Python                       █████████████████████▓░░░   86.59 %
-TypeScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-HTML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
