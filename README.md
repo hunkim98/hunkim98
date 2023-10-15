@@ -4,7 +4,7 @@
 - 🤔 I am interested in creating productive web services implementing AI/ML
 - 🔭 I am currently studying Computer Graphics / NLP / Vision, Web 
 - 🌱 I am currently learning Typescript, Python, C#, Rust, Jupyter
-- 🎨 I am the creator of [dotting](hunkim98.github.io/dotting), a React component library for pixel art
+- 🎨 I am the creator of [dotting]([hunkim98.github.io/dotting](https://github.com/hunkim98/dotting)), a React component library for pixel art
 
 I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 
