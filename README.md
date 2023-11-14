@@ -6,7 +6,7 @@
 - 🌱 I am currently learning Typescript, Python, C#, Rust, Jupyter
 - 🎨 I am the creator of [dotting](https://github.com/hunkim98/dotting), a React component library for pixel art
 
-I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
+I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 
 ---
 ### 📊 Recent development breakdown
