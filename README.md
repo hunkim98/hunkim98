@@ -13,7 +13,7 @@ I write sometimes. Mostly about Tech and Business at https://hunkim98.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
 TypeScript                   ████████████████████████░   95.56 %
 Python                       █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
