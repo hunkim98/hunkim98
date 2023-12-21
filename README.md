@@ -13,13 +13,9 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
-TypeScript                   ███████████▒░░░░░░░░░░░░░   45.14 %
-Python                       ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-Bash                         ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-JSON                         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Git Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
