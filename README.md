@@ -13,9 +13,11 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-No activity tracked
+Python                       █████████████████████▓░░░   87.21 %
+CSV                          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Git Config                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
