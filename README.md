@@ -13,13 +13,9 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
-Python                     █████████████████████████   99.93 %
-Markdown                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Docker                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CSV                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
