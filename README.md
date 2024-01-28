@@ -2,7 +2,7 @@
 
 - 👋 Hi, I am Donghun Kim. I am a web developer. 
 - 🤔 I am interested in creating productive web services implementing AI/ML
-- 🔭 I am currently studying Computer Graphics / NLP / Vision, Web 
+- 🔭 I am currently studying Computer Graphics, Generative AI, and Web 
 - 🌱 I am currently learning Typescript, Python, C#, Rust, Jupyter
 - 🎨 I am the creator of [dotting](https://github.com/hunkim98/dotting), a React component library for pixel art
 
