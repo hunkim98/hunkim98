@@ -1,4 +1,4 @@
-### Donghun Kim (@hunkim98)
+### Hun (Donghun) Kim (@hunkim98)
 
 - 👋 Hi, I am Donghun Kim. I am a web developer. 
 - 🤔 I am interested in creating productive web services implementing AI/ML
