@@ -13,7 +13,7 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
 TypeScript                   ████████████████████████▒   96.74 %
 Python                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
