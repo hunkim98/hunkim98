@@ -13,9 +13,9 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2025 - To: 09 April 2025
+From: 03 April 2025 - To: 10 April 2025
 
-Python                       █████████████████████████   99.70 %
+Python                       █████████████████████████   99.71 %
 CSV                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Git Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
