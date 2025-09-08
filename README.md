@@ -13,7 +13,7 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2025 - To: 06 September 2025
+From: 31 August 2025 - To: 07 September 2025
 
 Python                       ███████████████████████▒░   93.13 %
 CSV                          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
