@@ -13,11 +13,13 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-TypeScript                   ███████████▒░░░░░░░░░░░░░   45.80 %
-Prisma                       █████████░░░░░░░░░░░░░░░░   35.42 %
-Bash                         ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+TypeScript                   ███████████████▓░░░░░░░░░   63.13 %
+JavaScript                   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Prisma                       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Bash                         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+HTML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
