@@ -13,13 +13,12 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2026 - To: 20 March 2026
+From: 14 March 2026 - To: 21 March 2026
 
-Python                             █████████████████████▓░░░   86.39 %
-Markdown                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-TypeScript                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Bash                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-JavaScript                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python                             ████████████████████████▓   98.28 %
+Markdown                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash                               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
