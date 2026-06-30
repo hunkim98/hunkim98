@@ -13,13 +13,13 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 28 June 2026
+From: 22 June 2026 - To: 29 June 2026
 
-TypeScript                         █████████████████░░░░░░░░   68.36 %
-Other                              ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Markdown                           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-JSON                               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Prisma                             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+TypeScript                         ████████████████▒░░░░░░░░   65.79 %
+Other                              ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+JSON                               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Markdown                           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Prisma                             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
