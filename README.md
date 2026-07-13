@@ -13,7 +13,7 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2026 - To: 11 July 2026
+From: 05 July 2026 - To: 12 July 2026
 
 JSON                             ████████████████████████▓   98.41 %
 Markdown                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
