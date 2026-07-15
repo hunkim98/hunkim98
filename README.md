@@ -13,11 +13,9 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-TypeScript                         ████████████████████████░   96.39 %
-JSON                               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Markdown                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript                         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
