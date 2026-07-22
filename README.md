@@ -13,9 +13,13 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-No activity tracked
+YAML                               ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+Other                              █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+Bash                               ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+SSH Config                         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+Git Config                         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
 ```
 
 <!--END_SECTION:waka-->
