@@ -13,9 +13,12 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-No activity tracked
+HTML                               █████████████░░░░░░░░░░░░   51.83 %
+JavaScript                         ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+Python                             ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Bash                               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
