@@ -13,7 +13,7 @@ I write sometimes. Mostly about Tech and Business at https://donghunkim.dev/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
 TypeScript                         █████████████████░░░░░░░░   68.63 %
 Markdown                           ███████▒░░░░░░░░░░░░░░░░░   29.30 %
